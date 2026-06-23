@@ -1,0 +1,1 @@
+# AI-CUP-2026-Table-Tennis-Tactics-and-Outcome-Prediction-Based-on-Time-Series-Data
